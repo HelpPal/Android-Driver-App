@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_picker_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout-land/mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout-land/mdtp_date_picker_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout-land/mdtp_date_picker_dialog.xml"
+    }
+]

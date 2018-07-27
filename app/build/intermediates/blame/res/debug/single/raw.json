@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/raw/timmer_mussic.mp3",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/raw/timmer_mussic.mp3"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    }
+]

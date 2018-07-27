@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    }
+]

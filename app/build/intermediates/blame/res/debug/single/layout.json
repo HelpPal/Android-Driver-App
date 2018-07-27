@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_done_button.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_done_button.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_profile_edit.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_profile_edit.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_time_picker_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/accept_reject_dialog_panel.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/accept_reject_dialog_panel.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_year_label_text_view.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_finish_trip.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_finish_trip.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_time_header_label.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_header_view.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_driver_trip.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_driver_trip.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/slidingmenumain.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/Texi/slideMenuLibrary/unspecified/res/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_driver_trip_detail.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_driver_trip_detail.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/driver_trip_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/driver_trip_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_view_animator.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mk_dialog_panel.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/mk_dialog_panel.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/register_step_two.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/register_step_two.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/car_type_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/car_type_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_cab_popup.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_cab_popup.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_selected_date.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/register_step_one.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/register_step_one.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/newton_cradle_loading.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.victor/lib/1.0.4/res/layout/newton_cradle_loading.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/internetinfopanel.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/internetinfopanel.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/loader_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/loader_dialog.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/book_loading.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.victor/lib/1.0.4/res/layout/book_loading.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/mdtp_time_title_view.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/layout/mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_forgot.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_forgot.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/all_trip_filter_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/all_trip_filter_dialog.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/left_menu.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/left_menu.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notify_alert.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/notify_alert.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/activity_change_password.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/cartype_dialog.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/cartype_dialog.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/register_step_three.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/layout/register_step_three.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    }
+]

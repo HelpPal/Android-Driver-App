@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/name_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/name_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_driver_cancelled.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_driver_cancelled.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/checkbox_unchecked.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/checkbox_unchecked.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/legal_active.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/legal_active.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_user_cancelled.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_user_cancelled.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/personal.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/personal.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/vehicle_details_section_background.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/vehicle_details_section_background.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/confirm_password_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/confirm_password_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/address_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/address_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/blank_btn.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/blank_btn.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/password_icon_reg.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/password_icon_reg.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/user_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/user_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/background.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/filter_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/filter_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/email.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/email.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/contact_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/contact_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_driver_unavailable.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_driver_unavailable.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dob_rejecter_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/dob_rejecter_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/to_background.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/to_background.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/legal.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/legal.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/apply_button.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/apply_button.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cancel_button.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/cancel_button.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/close_btn.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/close_btn.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/active_indicator_register.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/active_indicator_register.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_on_trip.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_on_trip.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cell_background.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/cell_background.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/accept_reject_blank.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/accept_reject_blank.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/driving_licence_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/driving_licence_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/checkbox_checked.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/checkbox_checked.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/splash_screen.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/splash_screen.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/personal_active.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/personal_active.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_accepted.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_accepted.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/car_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/car_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_pending.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_pending.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/date_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/date_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/heading_blank_btn.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/heading_blank_btn.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/address_seprator.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/address_seprator.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_background.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/icon_background.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/nevigation_arrow_right.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/nevigation_arrow_right.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/password_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/password_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cancelled_stemp.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/cancelled_stemp.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/distance_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/distance_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/vehicle.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/vehicle.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/vertical_sep.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/vertical_sep.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/vehicle_active.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/vehicle_active.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/menu_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/menu_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_driver_arrived.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_driver_arrived.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/signin_signup_blank.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/signin_signup_blank.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_completed.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_completed.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/blank_rounded_image.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/blank_rounded_image.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/avatar.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/avatar.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/status_waiting.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/status_waiting.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gender_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/gender_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/insuarance_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/insuarance_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/mobile_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/mobile_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dob_icon.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/dob_icon.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/license_plate.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-xxhdpi/license_plate.png"
+    }
+]

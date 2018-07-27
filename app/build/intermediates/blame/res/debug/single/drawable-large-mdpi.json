@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-large-mdpi/background.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-large-mdpi/background.png"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-large-mdpi/splash_screen.png",
+        "source": "/Users/techintegrity/Desktop/Texi/app/src/main/res/drawable-large-mdpi/splash_screen.png"
+    }
+]

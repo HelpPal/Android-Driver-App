@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/drawable-land/mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color_dark.xml",
+        "source": "/Users/techintegrity/Desktop/Texi/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.4.0/res/drawable-land/mdtp_done_background_color_dark.xml"
+    }
+]
