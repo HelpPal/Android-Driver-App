@@ -44,6 +44,7 @@ import java.util.Date;
 public class CabPopupActivity extends AppCompatActivity implements OnMapReadyCallback {
 
     // main component
+    //Why I can't see my comments
     RelativeLayout layout_accept;
     RelativeLayout layout_decline;
     TextView minutes_value,txt_accept,txt_decline;
